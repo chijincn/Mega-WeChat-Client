@@ -51,7 +51,7 @@ Mega-WeChat-Client
 初始化Yii并安装composer依赖，进入到项目根目录。
 
 > cd Mega-WeChat-Client
-> php composer.phar global require "fxp/composer-asset-plugin:~1.1.1
+> php composer.phar global require "fxp/composer-asset-plugin:~1.1.1"
 > php composer.phar install
 > ./init
 
